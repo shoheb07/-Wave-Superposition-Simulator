@@ -27,4 +27,49 @@ The project helps students and educators understand how waves interact through c
 - Pygame
 - NumPy
 
---
+Mathematical Model
+
+Wave Equation:
+
+y = A sin(kx − ωt)
+
+Resultant Wave:
+
+y_total = y₁ + y₂
+
+Where:
+
+* A = Amplitude
+* k = Wave Number
+* ω = Angular Frequency
+* t = Time
+* x = Position
+
+  How It Works
+
+1. Generate two sinusoidal waves.
+2. Continuously update wave positions over time.
+3. Calculate resultant displacement using superposition.
+4. Render all waves on the screen.
+5. Visualize interference patterns dynamically.
+
+
+Learning Outcomes
+
+This project helps understand:
+
+* Wave Mechanics
+* Interference Phenomena
+* Harmonic Motion
+* Physics Simulations
+* Scientific Computing
+* Real-Time Animation
+
+
+Applications
+
+* Physics Education
+* Classroom Demonstrations
+* STEM Learning
+* Interactive Simulations
+* Scientific Visualization
